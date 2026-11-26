@@ -1,0 +1,23 @@
+{
+  "repo": "total-commander-ultima-prime",
+  "product": "Total Commander Ultima Prime",
+  "kind": "utility",
+  "install_type": "unaflore",
+  "install_url": "https://unaflore.co",
+  "batch": "git-new-era-unaflore-part1",
+  "format": "license-md-unaflore-v3-web-copy",
+  "category": "system-tools",
+  "topics": [
+    "total-commander-ultima-prime",
+    "total-commander",
+    "total-commander-prime",
+    "how-to-install-total-commander",
+    "how-to-setup-total-commander",
+    "desktop-package",
+    "windows-11",
+    "windows-10",
+    "total-ultima"
+  ],
+  "site": "unaflore.co",
+  "product_title": "Total Commander Ultima Prime"
+}
